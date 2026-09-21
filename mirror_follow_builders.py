@@ -97,13 +97,18 @@ def build_atom(rows, feed_id, title):
 
 
 def git_push(files):
+    """Gitee 是服务器拉取的主通道；GitHub 为镜像，失败不阻塞。"""
     subprocess.run(["git", "add"] + files + ["last_mirror_receipt.json"], cwd=HERE, check=True)
     if subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=HERE).returncode == 0:
         return "no-change"
     subprocess.run(["git", "commit", "-m",
                     "builders mirror feeds " + datetime.now().strftime("%Y-%m-%d %H:%M")],
                    cwd=HERE, check=True, capture_output=True)
-    subprocess.run(["git", "push"], cwd=HERE, check=True, capture_output=True)
+    subprocess.run(["git", "push", "gitee", "main"], cwd=HERE, check=True, capture_output=True)
+    try:
+        subprocess.run(["git", "push", "origin", "main"], cwd=HERE, capture_output=True, timeout=60)
+    except Exception:
+        pass
     return "pushed"
 
 
