@@ -1,0 +1,14 @@
+{
+  "note": "与服务器端 youtube_sources.json 固定名单保持一致（2026-09-05 核对版）；增减频道需两边同步。",
+  "sources": [
+    {"source_key": "youtube-playlist:TrainingData", "name": "Training Data · Sequoia Capital", "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8", "status": "active"},
+    {"source_key": "youtube-channel:LatentSpacePod", "name": "Latent Space", "url": "https://www.youtube.com/@LatentSpacePod/videos", "status": "active"},
+    {"source_key": "youtube-channel:ycombinator", "name": "Y Combinator", "url": "https://www.youtube.com/@ycombinator/videos", "status": "active"},
+    {"source_key": "youtube-channel:a16z", "name": "a16z", "url": "https://www.youtube.com/@a16z/videos", "status": "active"},
+    {"source_key": "youtube-channel:RedpointAI", "name": "Redpoint AI", "url": "https://www.youtube.com/@RedpointAI/videos", "status": "active"},
+    {"source_key": "youtube-channel:EveryInc", "name": "Every", "url": "https://www.youtube.com/@EveryInc/videos", "status": "active"},
+    {"source_key": "youtube-channel:DataDrivenNYC", "name": "Data Driven NYC", "url": "https://www.youtube.com/@DataDrivenNYC/videos", "status": "active"},
+    {"source_key": "youtube-channel:NoPriorsPodcast", "name": "No Priors", "url": "https://www.youtube.com/@NoPriorsPodcast/videos", "status": "active"},
+    {"source_key": "youtube-channel:DwarkeshPatel", "name": "Dwarkesh Patel", "url": "https://www.youtube.com/@DwarkeshPatel/videos", "status": "active"}
+  ]
+}
