@@ -1,53 +1,53 @@
 {
- "ran_at": "2026-09-21T11:30:57+08:00",
+ "ran_at": "2026-09-21T11:36:37+08:00",
  "proxy": "http://127.0.0.1:12334",
  "channels": [
   {
    "name": "Training Data · Sequoia Capital",
-   "status": "failed",
-   "message": "HTTP Error 404: Not Found"
+   "status": "completed",
+   "read": 3
   },
   {
    "name": "Latent Space",
-   "status": "failed",
-   "message": "HTTP Error 404: Not Found"
+   "status": "completed",
+   "read": 3
   },
   {
    "name": "Y Combinator",
-   "status": "failed",
-   "message": "HTTP Error 404: Not Found"
+   "status": "completed",
+   "read": 3
   },
   {
    "name": "a16z",
-   "status": "failed",
-   "message": "HTTP Error 404: Not Found"
+   "status": "completed",
+   "read": 3
   },
   {
    "name": "Redpoint AI",
-   "status": "failed",
-   "message": "HTTP Error 404: Not Found"
+   "status": "completed",
+   "read": 3
   },
   {
    "name": "Every",
-   "status": "failed",
-   "message": "HTTP Error 404: Not Found"
+   "status": "completed",
+   "read": 2
   },
   {
    "name": "Data Driven NYC",
-   "status": "failed",
-   "message": "HTTP Error 404: Not Found"
+   "status": "completed",
+   "read": 3
   },
   {
    "name": "No Priors",
-   "status": "failed",
-   "message": "HTTP Error 404: Not Found"
+   "status": "completed",
+   "read": 3
   },
   {
    "name": "Dwarkesh Patel",
-   "status": "failed",
-   "message": "HTTP Error 404: Not Found"
+   "status": "completed",
+   "read": 3
   }
  ],
- "total_items": 0,
- "failed": 9
+ "total_items": 26,
+ "failed": 0
 }
