@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:yt="http://www.youtube.com/xml/schemas/2015">
 <id>tag:chengzhang.amilakids.com,2026:youtube-radar-macmini</id>
 <title>YouTube 雷达 · Mac mini 采集</title>
-<updated>2026-09-21T03:36:37+00:00</updated>
+<updated>2026-09-21T03:42:43+00:00</updated>
 <author><name>YouTube 雷达 · Mac mini</name></author>
 <entry>
 <id>youtube:NE4CLThMPGU</id>
@@ -47,7 +47,7 @@
 <entry>
 <id>youtube:Sc2_LfWgHb4</id>
 <yt:videoId>Sc2_LfWgHb4</yt:videoId>
-<title>Who Insures the AI Agents? — Rune Kvist of AI Underwriting Company</title>
+<title>The Watchdogs of AGI — Rune Kvist of AI Underwriting Company</title>
 <link rel="alternate" href="https://www.youtube.com/watch?v=Sc2_LfWgHb4"/>
 <published>2026-09-21T00:00:00+00:00</published>
 <updated>2026-09-21T00:00:00+00:00</updated>
@@ -57,7 +57,7 @@
 <entry>
 <id>youtube:eDFXtSg3zB8</id>
 <yt:videoId>eDFXtSg3zB8</yt:videoId>
-<title>Beyond Auto Research: Building Recursive Self-Improving AI — Richard Socher, Recursive</title>
+<title>The Eureka Machine: from Auto Research to Recursive Superintelligence — Richard Socher, Recursive</title>
 <link rel="alternate" href="https://www.youtube.com/watch?v=eDFXtSg3zB8"/>
 <published>2026-09-21T00:00:00+00:00</published>
 <updated>2026-09-21T00:00:00+00:00</updated>
@@ -107,7 +107,7 @@
 <entry>
 <id>youtube:GzEtpAKYRvE</id>
 <yt:videoId>GzEtpAKYRvE</yt:videoId>
-<title>Why Would AI Companies Want to Slow Down?</title>
+<title>Databricks CEO on What We’re Getting Wrong About Existential Risk</title>
 <link rel="alternate" href="https://www.youtube.com/watch?v=GzEtpAKYRvE"/>
 <published>2026-09-21T00:00:00+00:00</published>
 <updated>2026-09-21T00:00:00+00:00</updated>
@@ -117,7 +117,7 @@
 <entry>
 <id>youtube:SDbRJXQrYGY</id>
 <yt:videoId>SDbRJXQrYGY</yt:videoId>
-<title>How Real-Time AI Video Is Changing How Creators Work</title>
+<title>Why Studios Are Finally Embracing Generative Video</title>
 <link rel="alternate" href="https://www.youtube.com/watch?v=SDbRJXQrYGY"/>
 <published>2026-09-21T00:00:00+00:00</published>
 <updated>2026-09-21T00:00:00+00:00</updated>
@@ -247,7 +247,7 @@
 <entry>
 <id>youtube:PrSf7IOYu-I</id>
 <yt:videoId>PrSf7IOYu-I</yt:videoId>
-<title>AI researchers debate the path to superintelligence</title>
+<title>AI researchers debate how close we are to recursive self-improvement</title>
 <link rel="alternate" href="https://www.youtube.com/watch?v=PrSf7IOYu-I"/>
 <published>2026-09-21T00:00:00+00:00</published>
 <updated>2026-09-21T00:00:00+00:00</updated>
