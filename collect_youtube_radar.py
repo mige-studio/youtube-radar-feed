@@ -104,7 +104,18 @@ def git_push():
     return "pushed"
 
 
+def self_update():
+    """尽力自更新：仓库有新脚本时先跟上，失败不影响本轮采集。"""
+    try:
+        subprocess.run(["git", "pull", "--ff-only"], cwd=HERE, timeout=30,
+                       check=True, capture_output=True)
+        return "updated-or-current"
+    except Exception:
+        return "skipped"
+
+
 def main():
+    self_update()
     proxy = sys.argv[1] if len(sys.argv) > 1 else os.environ.get("YT_RADAR_PROXY", "http://127.0.0.1:12334")
     sources = json.loads(SOURCES_FILE.read_text())["sources"]
 
@@ -134,6 +145,13 @@ def main():
         receipt["git"] = "failed: " + err[-200:]
     RECEIPT.write_text(json.dumps(receipt, ensure_ascii=False, indent=1), encoding="utf-8")
     print(json.dumps(receipt, ensure_ascii=False, indent=1))
+    # 顺带镜像 Follow Builders 的 X／博客／播客三源；失败不影响 YouTube 主链路
+    try:
+        import mirror_follow_builders
+        receipt["mirror"] = "ok" if mirror_follow_builders.main(proxy) == 0 else "partial"
+    except Exception as exc:
+        receipt["mirror"] = "failed: " + str(exc)[:150]
+    RECEIPT.write_text(json.dumps(receipt, ensure_ascii=False, indent=1), encoding="utf-8")
     return 1 if receipt["failed"] == len(receipts) else 0
 
 
