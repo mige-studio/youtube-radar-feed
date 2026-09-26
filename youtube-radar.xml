@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:yt="http://www.youtube.com/xml/schemas/2015">
 <id>tag:chengzhang.amilakids.com,2026:youtube-radar-macmini</id>
 <title>YouTube 雷达 · Mac mini 采集</title>
-<updated>2026-09-25T00:30:21+00:00</updated>
+<updated>2026-09-26T00:30:22+00:00</updated>
 <author><name>YouTube 雷达 · Mac mini</name></author>
 <entry>
 <id>youtube:NE4CLThMPGU</id>
 <yt:videoId>NE4CLThMPGU</yt:videoId>
 <title>Box's Aaron Levie: On Reinventing Yourself in the AI Age and Enterprise Diffusion</title>
 <link rel="alternate" href="https://www.youtube.com/watch?v=NE4CLThMPGU"/>
-<published>2026-09-25T00:00:00+00:00</published>
-<updated>2026-09-25T00:00:00+00:00</updated>
+<published>2026-09-26T00:00:00+00:00</published>
+<updated>2026-09-26T00:00:00+00:00</updated>
 <author><name>Training Data · Sequoia Capital</name></author>
 <summary>Training Data · Sequoia Capital 频道公开视频发现记录（Mac mini 链路，≥600s 已过滤）；未读取字幕或正文。</summary>
 </entry>
@@ -19,8 +19,8 @@
 <yt:videoId>JWMF5EpP0KE</yt:videoId>
 <title>Making Cities Awesome: Peregrine’s Nick Noone &amp; Ben Rudolph</title>
 <link rel="alternate" href="https://www.youtube.com/watch?v=JWMF5EpP0KE"/>
-<published>2026-09-25T00:00:00+00:00</published>
-<updated>2026-09-25T00:00:00+00:00</updated>
+<published>2026-09-26T00:00:00+00:00</published>
+<updated>2026-09-26T00:00:00+00:00</updated>
 <author><name>Training Data · Sequoia Capital</name></author>
 <summary>Training Data · Sequoia Capital 频道公开视频发现记录（Mac mini 链路，≥600s 已过滤）；未读取字幕或正文。</summary>
 </entry>
@@ -29,38 +29,38 @@
 <yt:videoId>fUcnE6pjq5w</yt:videoId>
 <title>Parallel’s Parag Agrawal: Building a New Web for AI Agents</title>
 <link rel="alternate" href="https://www.youtube.com/watch?v=fUcnE6pjq5w"/>
-<published>2026-09-25T00:00:00+00:00</published>
-<updated>2026-09-25T00:00:00+00:00</updated>
+<published>2026-09-26T00:00:00+00:00</published>
+<updated>2026-09-26T00:00:00+00:00</updated>
 <author><name>Training Data · Sequoia Capital</name></author>
 <summary>Training Data · Sequoia Capital 频道公开视频发现记录（Mac mini 链路，≥600s 已过滤）；未读取字幕或正文。</summary>
+</entry>
+<entry>
+<id>youtube:dCX4PE2HxMs</id>
+<yt:videoId>dCX4PE2HxMs</yt:videoId>
+<title>The $10 Trillion Token Economy — Alex Atallah, OpenRouter &amp; Anjney Midha, AMP</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=dCX4PE2HxMs"/>
+<published>2026-09-26T00:00:00+00:00</published>
+<updated>2026-09-26T00:00:00+00:00</updated>
+<author><name>Latent Space</name></author>
+<summary>Latent Space 频道公开视频发现记录（Mac mini 链路，≥600s 已过滤）；未读取字幕或正文。</summary>
+</entry>
+<entry>
+<id>youtube:fGRd5gYhztg</id>
+<yt:videoId>fGRd5gYhztg</yt:videoId>
+<title>The Endgame of AI Video Is a World Model — Anastasis Germanidis, Runway Co-founder</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=fGRd5gYhztg"/>
+<published>2026-09-26T00:00:00+00:00</published>
+<updated>2026-09-26T00:00:00+00:00</updated>
+<author><name>Latent Space</name></author>
+<summary>Latent Space 频道公开视频发现记录（Mac mini 链路，≥600s 已过滤）；未读取字幕或正文。</summary>
 </entry>
 <entry>
 <id>youtube:B7DdNj_VjcU</id>
 <yt:videoId>B7DdNj_VjcU</yt:videoId>
 <title>🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)</title>
 <link rel="alternate" href="https://www.youtube.com/watch?v=B7DdNj_VjcU"/>
-<published>2026-09-25T00:00:00+00:00</published>
-<updated>2026-09-25T00:00:00+00:00</updated>
-<author><name>Latent Space</name></author>
-<summary>Latent Space 频道公开视频发现记录（Mac mini 链路，≥600s 已过滤）；未读取字幕或正文。</summary>
-</entry>
-<entry>
-<id>youtube:2xBSGluFkG0</id>
-<yt:videoId>2xBSGluFkG0</yt:videoId>
-<title>🔬 Google's AI Scientist Started as an Attempt to Automate Kaggle — John Platt, Google Fellow</title>
-<link rel="alternate" href="https://www.youtube.com/watch?v=2xBSGluFkG0"/>
-<published>2026-09-25T00:00:00+00:00</published>
-<updated>2026-09-25T00:00:00+00:00</updated>
-<author><name>Latent Space</name></author>
-<summary>Latent Space 频道公开视频发现记录（Mac mini 链路，≥600s 已过滤）；未读取字幕或正文。</summary>
-</entry>
-<entry>
-<id>youtube:cFx9Z3ZXca0</id>
-<yt:videoId>cFx9Z3ZXca0</yt:videoId>
-<title>Why I couldn't build Jev at OpenAI — Diogo Almeida, TypeSafe Co-founder &amp; CEO</title>
-<link rel="alternate" href="https://www.youtube.com/watch?v=cFx9Z3ZXca0"/>
-<published>2026-09-25T00:00:00+00:00</published>
-<updated>2026-09-25T00:00:00+00:00</updated>
+<published>2026-09-26T00:00:00+00:00</published>
+<updated>2026-09-26T00:00:00+00:00</updated>
 <author><name>Latent Space</name></author>
 <summary>Latent Space 频道公开视频发现记录（Mac mini 链路，≥600s 已过滤）；未读取字幕或正文。</summary>
 </entry>
@@ -69,8 +69,8 @@
 <yt:videoId>yslXlV2BP_Y</yt:videoId>
 <title>The State of Startups in 2026</title>
 <link rel="alternate" href="https://www.youtube.com/watch?v=yslXlV2BP_Y"/>
-<published>2026-09-25T00:00:00+00:00</published>
-<updated>2026-09-25T00:00:00+00:00</updated>
+<published>2026-09-26T00:00:00+00:00</published>
+<updated>2026-09-26T00:00:00+00:00</updated>
 <author><name>Y Combinator</name></author>
 <summary>Y Combinator 频道公开视频发现记录（Mac mini 链路，≥600s 已过滤）；未读取字幕或正文。</summary>
 </entry>
@@ -79,8 +79,8 @@
 <yt:videoId>wr6PMD06hP0</yt:videoId>
 <title>Why You're Getting Zero Replies To Your Cold Emails</title>
 <link rel="alternate" href="https://www.youtube.com/watch?v=wr6PMD06hP0"/>
-<published>2026-09-25T00:00:00+00:00</published>
-<updated>2026-09-25T00:00:00+00:00</updated>
+<published>2026-09-26T00:00:00+00:00</published>
+<updated>2026-09-26T00:00:00+00:00</updated>
 <author><name>Y Combinator</name></author>
 <summary>Y Combinator 频道公开视频发现记录（Mac mini 链路，≥600s 已过滤）；未读取字幕或正文。</summary>
 </entry>
@@ -89,18 +89,28 @@
 <yt:videoId>n9xKblqyQ28</yt:videoId>
 <title>Why The Harness Matters More Than The Model | YC Paper Club</title>
 <link rel="alternate" href="https://www.youtube.com/watch?v=n9xKblqyQ28"/>
-<published>2026-09-25T00:00:00+00:00</published>
-<updated>2026-09-25T00:00:00+00:00</updated>
+<published>2026-09-26T00:00:00+00:00</published>
+<updated>2026-09-26T00:00:00+00:00</updated>
 <author><name>Y Combinator</name></author>
 <summary>Y Combinator 频道公开视频发现记录（Mac mini 链路，≥600s 已过滤）；未读取字幕或正文。</summary>
 </entry>
 <entry>
+<id>youtube:-ywZlfznTa4</id>
+<yt:videoId>-ywZlfznTa4</yt:videoId>
+<title>How to Spot Exceptional Talent Before Everyone Else</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=-ywZlfznTa4"/>
+<published>2026-09-26T00:00:00+00:00</published>
+<updated>2026-09-26T00:00:00+00:00</updated>
+<author><name>a16z</name></author>
+<summary>a16z 频道公开视频发现记录（Mac mini 链路，≥600s 已过滤）；未读取字幕或正文。</summary>
+</entry>
+<entry>
 <id>youtube:Q8yFrGwIftE</id>
 <yt:videoId>Q8yFrGwIftE</yt:videoId>
-<title>Replit CEO Amjad Masad on Why Your Weirdest Interests Might Lead to Your Best Ideas</title>
+<title>Amjad Masad on the Future of Learning</title>
 <link rel="alternate" href="https://www.youtube.com/watch?v=Q8yFrGwIftE"/>
-<published>2026-09-25T00:00:00+00:00</published>
-<updated>2026-09-25T00:00:00+00:00</updated>
+<published>2026-09-26T00:00:00+00:00</published>
+<updated>2026-09-26T00:00:00+00:00</updated>
 <author><name>a16z</name></author>
 <summary>a16z 频道公开视频发现记录（Mac mini 链路，≥600s 已过滤）；未读取字幕或正文。</summary>
 </entry>
@@ -109,18 +119,8 @@
 <yt:videoId>Z4x71naDx1Q</yt:videoId>
 <title>Why Education Has to Change</title>
 <link rel="alternate" href="https://www.youtube.com/watch?v=Z4x71naDx1Q"/>
-<published>2026-09-25T00:00:00+00:00</published>
-<updated>2026-09-25T00:00:00+00:00</updated>
-<author><name>a16z</name></author>
-<summary>a16z 频道公开视频发现记录（Mac mini 链路，≥600s 已过滤）；未读取字幕或正文。</summary>
-</entry>
-<entry>
-<id>youtube:ZO6VyDvysxY</id>
-<yt:videoId>ZO6VyDvysxY</yt:videoId>
-<title>Why the People Who Built Hip-Hop Ended Up With Nothing</title>
-<link rel="alternate" href="https://www.youtube.com/watch?v=ZO6VyDvysxY"/>
-<published>2026-09-25T00:00:00+00:00</published>
-<updated>2026-09-25T00:00:00+00:00</updated>
+<published>2026-09-26T00:00:00+00:00</published>
+<updated>2026-09-26T00:00:00+00:00</updated>
 <author><name>a16z</name></author>
 <summary>a16z 频道公开视频发现记录（Mac mini 链路，≥600s 已过滤）；未读取字幕或正文。</summary>
 </entry>
@@ -129,8 +129,8 @@
 <yt:videoId>hdlq-JHpLSw</yt:videoId>
 <title>Top Alignment Researcher on OpenAI/HuggingFace Revelations, Fixing AI Safety &amp; Takeover Odds</title>
 <link rel="alternate" href="https://www.youtube.com/watch?v=hdlq-JHpLSw"/>
-<published>2026-09-25T00:00:00+00:00</published>
-<updated>2026-09-25T00:00:00+00:00</updated>
+<published>2026-09-26T00:00:00+00:00</published>
+<updated>2026-09-26T00:00:00+00:00</updated>
 <author><name>Redpoint AI</name></author>
 <summary>Redpoint AI 频道公开视频发现记录（Mac mini 链路，≥600s 已过滤）；未读取字幕或正文。</summary>
 </entry>
@@ -139,8 +139,8 @@
 <yt:videoId>_GlSkJjRDMM</yt:videoId>
 <title>AI Vibe Check: Unpacking Chinese Open Models, Cursor's Data Bet &amp; Containment</title>
 <link rel="alternate" href="https://www.youtube.com/watch?v=_GlSkJjRDMM"/>
-<published>2026-09-25T00:00:00+00:00</published>
-<updated>2026-09-25T00:00:00+00:00</updated>
+<published>2026-09-26T00:00:00+00:00</published>
+<updated>2026-09-26T00:00:00+00:00</updated>
 <author><name>Redpoint AI</name></author>
 <summary>Redpoint AI 频道公开视频发现记录（Mac mini 链路，≥600s 已过滤）；未读取字幕或正文。</summary>
 </entry>
@@ -149,8 +149,8 @@
 <yt:videoId>0aBTpoCX_A8</yt:videoId>
 <title>xAI Co-Founder: Igor Babuschkin Unpacks the Future of Model Development</title>
 <link rel="alternate" href="https://www.youtube.com/watch?v=0aBTpoCX_A8"/>
-<published>2026-09-25T00:00:00+00:00</published>
-<updated>2026-09-25T00:00:00+00:00</updated>
+<published>2026-09-26T00:00:00+00:00</published>
+<updated>2026-09-26T00:00:00+00:00</updated>
 <author><name>Redpoint AI</name></author>
 <summary>Redpoint AI 频道公开视频发现记录（Mac mini 链路，≥600s 已过滤）；未读取字幕或正文。</summary>
 </entry>
@@ -159,8 +159,8 @@
 <yt:videoId>vey_dBnDTAU</yt:videoId>
 <title>How a Professional Writer Writes With AI</title>
 <link rel="alternate" href="https://www.youtube.com/watch?v=vey_dBnDTAU"/>
-<published>2026-09-25T00:00:00+00:00</published>
-<updated>2026-09-25T00:00:00+00:00</updated>
+<published>2026-09-26T00:00:00+00:00</published>
+<updated>2026-09-26T00:00:00+00:00</updated>
 <author><name>Every</name></author>
 <summary>Every 频道公开视频发现记录（Mac mini 链路，≥600s 已过滤）；未读取字幕或正文。</summary>
 </entry>
@@ -169,18 +169,18 @@
 <yt:videoId>yZddAiz4HP8</yt:videoId>
 <title>We Tested Anthropic's Fable 5.1 for a Week</title>
 <link rel="alternate" href="https://www.youtube.com/watch?v=yZddAiz4HP8"/>
-<published>2026-09-25T00:00:00+00:00</published>
-<updated>2026-09-25T00:00:00+00:00</updated>
+<published>2026-09-26T00:00:00+00:00</published>
+<updated>2026-09-26T00:00:00+00:00</updated>
 <author><name>Every</name></author>
 <summary>Every 频道公开视频发现记录（Mac mini 链路，≥600s 已过滤）；未读取字幕或正文。</summary>
 </entry>
 <entry>
 <id>youtube:awoR908Yu5Y</id>
 <yt:videoId>awoR908Yu5Y</yt:videoId>
-<title>Who Feeds the GPUs? Inside AI's Hidden $30B Layer | Renen Hallak, VAST Data</title>
+<title>Inside the $30B Bet to Build AI's Operating System | Renen Hallak, VAST Data</title>
 <link rel="alternate" href="https://www.youtube.com/watch?v=awoR908Yu5Y"/>
-<published>2026-09-25T00:00:00+00:00</published>
-<updated>2026-09-25T00:00:00+00:00</updated>
+<published>2026-09-26T00:00:00+00:00</published>
+<updated>2026-09-26T00:00:00+00:00</updated>
 <author><name>Data Driven NYC</name></author>
 <summary>Data Driven NYC 频道公开视频发现记录（Mac mini 链路，≥600s 已过滤）；未读取字幕或正文。</summary>
 </entry>
@@ -189,8 +189,8 @@
 <yt:videoId>kyyLku5F3bo</yt:videoId>
 <title>When AI Improves Itself | Richard Socher (Recursive)</title>
 <link rel="alternate" href="https://www.youtube.com/watch?v=kyyLku5F3bo"/>
-<published>2026-09-25T00:00:00+00:00</published>
-<updated>2026-09-25T00:00:00+00:00</updated>
+<published>2026-09-26T00:00:00+00:00</published>
+<updated>2026-09-26T00:00:00+00:00</updated>
 <author><name>Data Driven NYC</name></author>
 <summary>Data Driven NYC 频道公开视频发现记录（Mac mini 链路，≥600s 已过滤）；未读取字幕或正文。</summary>
 </entry>
@@ -199,8 +199,8 @@
 <yt:videoId>SK9ITBK5osA</yt:videoId>
 <title>AI Could Take Over in 2029. Is It Already Too Late?</title>
 <link rel="alternate" href="https://www.youtube.com/watch?v=SK9ITBK5osA"/>
-<published>2026-09-25T00:00:00+00:00</published>
-<updated>2026-09-25T00:00:00+00:00</updated>
+<published>2026-09-26T00:00:00+00:00</published>
+<updated>2026-09-26T00:00:00+00:00</updated>
 <author><name>Data Driven NYC</name></author>
 <summary>Data Driven NYC 频道公开视频发现记录（Mac mini 链路，≥600s 已过滤）；未读取字幕或正文。</summary>
 </entry>
@@ -209,8 +209,8 @@
 <yt:videoId>TCpRwJBQvW0</yt:videoId>
 <title>Re-Founding Incumbents for the AI Era with Sequence Holdings Co-Founder and CEO Michael Lee</title>
 <link rel="alternate" href="https://www.youtube.com/watch?v=TCpRwJBQvW0"/>
-<published>2026-09-25T00:00:00+00:00</published>
-<updated>2026-09-25T00:00:00+00:00</updated>
+<published>2026-09-26T00:00:00+00:00</published>
+<updated>2026-09-26T00:00:00+00:00</updated>
 <author><name>No Priors</name></author>
 <summary>No Priors 频道公开视频发现记录（Mac mini 链路，≥600s 已过滤）；未读取字幕或正文。</summary>
 </entry>
@@ -219,8 +219,8 @@
 <yt:videoId>N1rjtDs8blY</yt:videoId>
 <title>Why Diffusion Will Win AI Inference with Inception Co-Founder and CEO Stefano Ermon</title>
 <link rel="alternate" href="https://www.youtube.com/watch?v=N1rjtDs8blY"/>
-<published>2026-09-25T00:00:00+00:00</published>
-<updated>2026-09-25T00:00:00+00:00</updated>
+<published>2026-09-26T00:00:00+00:00</published>
+<updated>2026-09-26T00:00:00+00:00</updated>
 <author><name>No Priors</name></author>
 <summary>No Priors 频道公开视频发现记录（Mac mini 链路，≥600s 已过滤）；未读取字幕或正文。</summary>
 </entry>
@@ -229,18 +229,28 @@
 <yt:videoId>uLDK4l_-gUE</yt:videoId>
 <title>Coinbase’s Everything Exchange: Agentic Finance, Stablecoins &amp; Tokenization with CEO Brian Armstrong</title>
 <link rel="alternate" href="https://www.youtube.com/watch?v=uLDK4l_-gUE"/>
-<published>2026-09-25T00:00:00+00:00</published>
-<updated>2026-09-25T00:00:00+00:00</updated>
+<published>2026-09-26T00:00:00+00:00</published>
+<updated>2026-09-26T00:00:00+00:00</updated>
 <author><name>No Priors</name></author>
 <summary>No Priors 频道公开视频发现记录（Mac mini 链路，≥600s 已过滤）；未读取字幕或正文。</summary>
+</entry>
+<entry>
+<id>youtube:f6cjAEr08qk</id>
+<yt:videoId>f6cjAEr08qk</yt:videoId>
+<title>Sarah Paine — Why wars are so difficult to end</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=f6cjAEr08qk"/>
+<published>2026-09-26T00:00:00+00:00</published>
+<updated>2026-09-26T00:00:00+00:00</updated>
+<author><name>Dwarkesh Patel</name></author>
+<summary>Dwarkesh Patel 频道公开视频发现记录（Mac mini 链路，≥600s 已过滤）；未读取字幕或正文。</summary>
 </entry>
 <entry>
 <id>youtube:6AgOfiZOWiY</id>
 <yt:videoId>6AgOfiZOWiY</yt:videoId>
 <title>OpenAI researcher on agent swarms &amp; recursive self-improvement</title>
 <link rel="alternate" href="https://www.youtube.com/watch?v=6AgOfiZOWiY"/>
-<published>2026-09-25T00:00:00+00:00</published>
-<updated>2026-09-25T00:00:00+00:00</updated>
+<published>2026-09-26T00:00:00+00:00</published>
+<updated>2026-09-26T00:00:00+00:00</updated>
 <author><name>Dwarkesh Patel</name></author>
 <summary>Dwarkesh Patel 频道公开视频发现记录（Mac mini 链路，≥600s 已过滤）；未读取字幕或正文。</summary>
 </entry>
@@ -249,18 +259,8 @@
 <yt:videoId>PrSf7IOYu-I</yt:videoId>
 <title>AI researchers debate how close we are to recursive self-improvement</title>
 <link rel="alternate" href="https://www.youtube.com/watch?v=PrSf7IOYu-I"/>
-<published>2026-09-25T00:00:00+00:00</published>
-<updated>2026-09-25T00:00:00+00:00</updated>
-<author><name>Dwarkesh Patel</name></author>
-<summary>Dwarkesh Patel 频道公开视频发现记录（Mac mini 链路，≥600s 已过滤）；未读取字幕或正文。</summary>
-</entry>
-<entry>
-<id>youtube:X50zezLFWWI</id>
-<yt:videoId>X50zezLFWWI</yt:videoId>
-<title>Ajeya Cotra – &quot;This might be the clearest warning shot we ever get&quot;</title>
-<link rel="alternate" href="https://www.youtube.com/watch?v=X50zezLFWWI"/>
-<published>2026-09-25T00:00:00+00:00</published>
-<updated>2026-09-25T00:00:00+00:00</updated>
+<published>2026-09-26T00:00:00+00:00</published>
+<updated>2026-09-26T00:00:00+00:00</updated>
 <author><name>Dwarkesh Patel</name></author>
 <summary>Dwarkesh Patel 频道公开视频发现记录（Mac mini 链路，≥600s 已过滤）；未读取字幕或正文。</summary>
 </entry>
