@@ -2,132 +2,231 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <id>tag:chengzhang.amilakids.com,2026:builders-x</id>
 <title>海外订阅 · X · Mac mini 镜像</title>
-<updated>2026-09-28T00:30:29+00:00</updated>
+<updated>2026-09-29T00:31:25+00:00</updated>
 <author><name>海外订阅 · X · Mac mini 镜像</name></author>
 <entry>
-<id>2104068570938499350</id>
-<title>Most people get mad on social media but don’t know what to do to actually effect change</title>
-<link rel="alternate" href="https://x.com/garrytan/status/2104068570938499350"/>
-<published>2026-09-27T04:40:13.000Z</published>
-<updated>2026-09-27T04:40:13.000Z</updated>
-<author><name>Garry Tan</name></author>
-<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
-</entry>
-<entry>
-<id>2104066667361992892</id>
-<title>Not sure what happened to Claude limits they went from barely usable to basically unlimited 😂</title>
-<link rel="alternate" href="https://x.com/petergyang/status/2104066667361992892"/>
-<published>2026-09-27T04:32:39.000Z</published>
-<updated>2026-09-27T04:32:39.000Z</updated>
-<author><name>Peter Yang</name></author>
-<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
-</entry>
-<entry>
-<id>2104059554204188833</id>
-<title>Building an app with Gemini audio API to teach me conversational Japanese. </title>
-<link rel="alternate" href="https://x.com/petergyang/status/2104059554204188833"/>
-<published>2026-09-27T04:04:23.000Z</published>
-<updated>2026-09-27T04:04:23.000Z</updated>
-<author><name>Peter Yang</name></author>
-<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
-</entry>
-<entry>
-<id>2104030951370322145</id>
-<title>Hope you got out today ✌️ https://t.co/fbB6qHsWdR</title>
-<link rel="alternate" href="https://x.com/nikunj/status/2104030951370322145"/>
-<published>2026-09-27T02:10:44.000Z</published>
-<updated>2026-09-27T02:10:44.000Z</updated>
+<id>2104444216017637575</id>
+<title>Astra is absurd.. </title>
+<link rel="alternate" href="https://x.com/nikunj/status/2104444216017637575"/>
+<published>2026-09-28T05:32:54.000Z</published>
+<updated>2026-09-28T05:32:54.000Z</updated>
 <author><name>Nikunj Kothari</name></author>
 <summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
 </entry>
 <entry>
-<id>2104003094615052443</id>
-<title>I am using @antigravity for the first time (to try Google's new audio APIs) and who do I give feedback to...</title>
-<link rel="alternate" href="https://x.com/petergyang/status/2104003094615052443"/>
-<published>2026-09-27T00:20:02.000Z</published>
-<updated>2026-09-27T00:20:02.000Z</updated>
+<id>2104428800134013205</id>
+<title>I¹ ported my Mini web browser to Rust &amp; Swift. It's faster, more secure, and shockingly, nicer to iterate on than Electron + Bun.</title>
+<link rel="alternate" href="https://x.com/rauchg/status/2104428800134013205"/>
+<published>2026-09-28T04:31:39.000Z</published>
+<updated>2026-09-28T04:31:39.000Z</updated>
+<author><name>Guillermo Rauch</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2104428789417857436</id>
+<title>Cool to see Replit being popular at Chan-Zuckerberg household! https://t.co/JbuFL0HN3m</title>
+<link rel="alternate" href="https://x.com/amasad/status/2104428789417857436"/>
+<published>2026-09-28T04:31:36.000Z</published>
+<updated>2026-09-28T04:31:36.000Z</updated>
+<author><name>Amjad Masad</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2104424388309496182</id>
+<title>We came up in the golden era https://t.co/wEcyVOZQps https://t.co/HyuPtFIrnf</title>
+<link rel="alternate" href="https://x.com/thenanyu/status/2104424388309496182"/>
+<published>2026-09-28T04:14:07.000Z</published>
+<updated>2026-09-28T04:14:07.000Z</updated>
+<author><name>Nan Yu</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2104414495376564517</id>
+<title>Notice how almost nobody has fond memories of SaaS or business software that they used back in the day but everyone remembers their favorite games. </title>
+<link rel="alternate" href="https://x.com/petergyang/status/2104414495376564517"/>
+<published>2026-09-28T03:34:48.000Z</published>
+<updated>2026-09-28T03:34:48.000Z</updated>
 <author><name>Peter Yang</name></author>
 <summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
 </entry>
 <entry>
-<id>2103989902476259702</id>
-<title>This is my favorite way to fix bugs now</title>
-<link rel="alternate" href="https://x.com/garrytan/status/2103989902476259702"/>
-<published>2026-09-26T23:27:37.000Z</published>
-<updated>2026-09-26T23:27:37.000Z</updated>
-<author><name>Garry Tan</name></author>
+<id>2104406922216808505</id>
+<title>Btw follow the goat @David_Wise for composing the amazing donkey Kong country music</title>
+<link rel="alternate" href="https://x.com/petergyang/status/2104406922216808505"/>
+<published>2026-09-28T03:04:42.000Z</published>
+<updated>2026-09-28T03:04:42.000Z</updated>
+<author><name>Peter Yang</name></author>
 <summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
 </entry>
 <entry>
-<id>2103951116648280266</id>
-<title>Hello world, Lisa Rauch 👧.</title>
-<link rel="alternate" href="https://x.com/rauchg/status/2103951116648280266"/>
-<published>2026-09-26T20:53:30.000Z</published>
-<updated>2026-09-26T20:53:30.000Z</updated>
-<author><name>Guillermo Rauch</name></author>
+<id>2104405655406923922</id>
+<title>Yes I am a millennial 🙂 https://t.co/Lngb9TdCzO https://t.co/bqSDgGkRpE</title>
+<link rel="alternate" href="https://x.com/petergyang/status/2104405655406923922"/>
+<published>2026-09-28T02:59:40.000Z</published>
+<updated>2026-09-28T02:59:40.000Z</updated>
+<author><name>Peter Yang</name></author>
 <summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
 </entry>
 <entry>
-<id>2103939888513274147</id>
-<title>Reject non-understanding.</title>
-<link rel="alternate" href="https://x.com/rauchg/status/2103939888513274147"/>
-<published>2026-09-26T20:08:53.000Z</published>
-<updated>2026-09-26T20:08:53.000Z</updated>
-<author><name>Guillermo Rauch</name></author>
-<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
-</entry>
-<entry>
-<id>2103932595956506885</id>
-<title>Be chalant</title>
-<link rel="alternate" href="https://x.com/garrytan/status/2103932595956506885"/>
-<published>2026-09-26T19:39:54.000Z</published>
-<updated>2026-09-26T19:39:54.000Z</updated>
-<author><name>Garry Tan</name></author>
-<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
-</entry>
-<entry>
-<id>2103911959544610829</id>
-<title>Resets all propagated. That will be all. Have a fantastic weekend.</title>
-<link rel="alternate" href="https://x.com/thsottiaux/status/2103911959544610829"/>
-<published>2026-09-26T18:17:54.000Z</published>
-<updated>2026-09-26T18:17:54.000Z</updated>
-<author><name>Thibault Sottiaux</name></author>
-<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
-</entry>
-<entry>
-<id>2103897226154328502</id>
-<title>Just about 1 year ago I posted one of the first posts about using Claude Code to make videos.</title>
-<link rel="alternate" href="https://x.com/trq212/status/2103897226154328502"/>
-<published>2026-09-26T17:19:21.000Z</published>
-<updated>2026-09-26T17:19:21.000Z</updated>
+<id>2104403711699423680</id>
+<title>dating myself with neopets I fear https://t.co/Dz5CMnfLd8</title>
+<link rel="alternate" href="https://x.com/trq212/status/2104403711699423680"/>
+<published>2026-09-28T02:51:57.000Z</published>
+<updated>2026-09-28T02:51:57.000Z</updated>
 <author><name>Thariq</name></author>
 <summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
 </entry>
 <entry>
-<id>2103894152316645620</id>
-<title>Plato's Protagoras, as a short film by Opus 5.5</title>
-<link rel="alternate" href="https://x.com/danshipper/status/2103894152316645620"/>
-<published>2026-09-26T17:07:09.000Z</published>
-<updated>2026-09-26T17:07:09.000Z</updated>
-<author><name>Dan Shipper</name></author>
+<id>2104402742517420517</id>
+<title>Anti-bot is for losers tbh https://t.co/kFAhqE1cCB</title>
+<link rel="alternate" href="https://x.com/garrytan/status/2104402742517420517"/>
+<published>2026-09-28T02:48:06.000Z</published>
+<updated>2026-09-28T02:48:06.000Z</updated>
+<author><name>Garry Tan</name></author>
 <summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
 </entry>
 <entry>
-<id>2103883264054505493</id>
-<title>Now I see why some people talk about AGI. This is so clever! https://t.co/it621aH3EM</title>
-<link rel="alternate" href="https://x.com/steipete/status/2103883264054505493"/>
-<published>2026-09-26T16:23:53.000Z</published>
-<updated>2026-09-26T16:23:53.000Z</updated>
+<id>2104383749723128052</id>
+<title>. . . . . .</title>
+<link rel="alternate" href="https://x.com/thsottiaux/status/2104383749723128052"/>
+<published>2026-09-28T01:32:38.000Z</published>
+<updated>2026-09-28T01:32:38.000Z</updated>
+<author><name>Thibault Sottiaux</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2104350592290406849</id>
+<title>Interesting to think about all the implications in a world where agents begin to make the best or most efficient choice for their users.</title>
+<link rel="alternate" href="https://x.com/levie/status/2104350592290406849"/>
+<published>2026-09-27T23:20:52.000Z</published>
+<updated>2026-09-27T23:20:52.000Z</updated>
+<author><name>Aaron Levie</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2104344877798719516</id>
+<title>Love to see it 😂 https://t.co/wzKM5TseSi https://t.co/4cHj9x5f2M</title>
+<link rel="alternate" href="https://x.com/amasad/status/2104344877798719516"/>
+<published>2026-09-27T22:58:10.000Z</published>
+<updated>2026-09-27T22:58:10.000Z</updated>
+<author><name>Amjad Masad</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2104331402385002831</id>
+<title>It continues to be notable how many AI researchers (who understand how AI actually works) believe in neither AI doom nor massive uncontrollable acceleration, while non AI researche</title>
+<link rel="alternate" href="https://x.com/mattturck/status/2104331402385002831"/>
+<published>2026-09-27T22:04:37.000Z</published>
+<updated>2026-09-27T22:04:37.000Z</updated>
+<author><name>Matt Turck</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2104305554760114488</id>
+<title>Same. @useblacksmith has been an amazing sponsor but we need to distribute the load. </title>
+<link rel="alternate" href="https://x.com/steipete/status/2104305554760114488"/>
+<published>2026-09-27T20:21:55.000Z</published>
+<updated>2026-09-27T20:21:55.000Z</updated>
 <author><name>Peter Steinberger</name></author>
 <summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
 </entry>
 <entry>
-<id>2103850415930708437</id>
-<title>i wrote a novelization of Plato’s Protagoras</title>
-<link rel="alternate" href="https://x.com/danshipper/status/2103850415930708437"/>
-<published>2026-09-26T14:13:21.000Z</published>
-<updated>2026-09-26T14:13:21.000Z</updated>
+<id>2104302924251951553</id>
+<title>industry built on modeling humans as rational agents panics as humans adopt rational agents https://t.co/GYx8lXBURY</title>
+<link rel="alternate" href="https://x.com/danshipper/status/2104302924251951553"/>
+<published>2026-09-27T20:11:27.000Z</published>
+<updated>2026-09-27T20:11:27.000Z</updated>
 <author><name>Dan Shipper</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2104288345547591747</id>
+<title>&quot;Oh I can do this with CDP&quot; Haha you have not actually hit any real anti-bot then</title>
+<link rel="alternate" href="https://x.com/garrytan/status/2104288345547591747"/>
+<published>2026-09-27T19:13:32.000Z</published>
+<updated>2026-09-27T19:13:32.000Z</updated>
+<author><name>Garry Tan</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2104273243599405395</id>
+<title>I am most afraid of us eating the productivity gains of agents by just becoming lazier.</title>
+<link rel="alternate" href="https://x.com/trq212/status/2104273243599405395"/>
+<published>2026-09-27T18:13:31.000Z</published>
+<updated>2026-09-27T18:13:31.000Z</updated>
+<author><name>Thariq</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2104266890726309908</id>
+<title>Admittedly I'm averse to a lot of smells, but I like things like the smell of a fresh orange. The perfumes that are supposed to be realistic and citrusy smell at best like orange l</title>
+<link rel="alternate" href="https://x.com/AmandaAskell/status/2104266890726309908"/>
+<published>2026-09-27T17:48:16.000Z</published>
+<updated>2026-09-27T17:48:16.000Z</updated>
+<author><name>Amanda Askell</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2104261968043663591</id>
+<title>Asked ChatGPT for book recommendations after a long back and forth of books I tend to like.. if you have others to add, let me know 👋</title>
+<link rel="alternate" href="https://x.com/nikunj/status/2104261968043663591"/>
+<published>2026-09-27T17:28:43.000Z</published>
+<updated>2026-09-27T17:28:43.000Z</updated>
+<author><name>Nikunj Kothari</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2104261424625381528</id>
+<title>I wanted to know if I only hate perfume because I've never owned a nice one. So I researched a bunch of the fanciest and most well reviewed perfumes and bought a tiny sample bottle</title>
+<link rel="alternate" href="https://x.com/AmandaAskell/status/2104261424625381528"/>
+<published>2026-09-27T17:26:33.000Z</published>
+<updated>2026-09-27T17:26:33.000Z</updated>
+<author><name>Amanda Askell</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2104254321131245653</id>
+<title>This is the larger one (13.3”) with Renaissance art https://t.co/19fCrtQUgN</title>
+<link rel="alternate" href="https://x.com/nikunj/status/2104254321131245653"/>
+<published>2026-09-27T16:58:19.000Z</published>
+<updated>2026-09-27T16:58:19.000Z</updated>
+<author><name>Nikunj Kothari</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2104253882025341231</id>
+<title>People who ask “why do you keep posting without monetizing your content” don’t understand that:</title>
+<link rel="alternate" href="https://x.com/zarazhangrui/status/2104253882025341231"/>
+<published>2026-09-27T16:56:35.000Z</published>
+<updated>2026-09-27T16:56:35.000Z</updated>
+<author><name>Zara Zhang</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2104231083701420282</id>
+<title>Do not nerf</title>
+<link rel="alternate" href="https://x.com/garrytan/status/2104231083701420282"/>
+<published>2026-09-27T15:25:59.000Z</published>
+<updated>2026-09-27T15:25:59.000Z</updated>
+<author><name>Garry Tan</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2104112917264126195</id>
+<title>New technology can be so dazzling and flashy that it blinds us to the ways in which it’s not working </title>
+<link rel="alternate" href="https://x.com/zarazhangrui/status/2104112917264126195"/>
+<published>2026-09-27T07:36:26.000Z</published>
+<updated>2026-09-27T07:36:26.000Z</updated>
+<author><name>Zara Zhang</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2104108167806550046</id>
+<title>Code freeze isn’t really a thing anymore before releases and in the future the code might even be generated online per request according to some constraints.</title>
+<link rel="alternate" href="https://x.com/thsottiaux/status/2104108167806550046"/>
+<published>2026-09-27T07:17:34.000Z</published>
+<updated>2026-09-27T07:17:34.000Z</updated>
+<author><name>Thibault Sottiaux</name></author>
 <summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
 </entry>
 </feed>
