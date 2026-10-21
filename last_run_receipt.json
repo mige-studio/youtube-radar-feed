@@ -1,16 +1,16 @@
 {
- "ran_at": "2026-10-18T08:30:20+08:00",
+ "ran_at": "2026-10-21T08:30:23+08:00",
  "proxy": "http://127.0.0.1:12334",
  "channels": [
   {
    "name": "Training Data · Sequoia Capital",
    "status": "completed",
-   "read": 2
+   "read": 3
   },
   {
    "name": "Latent Space",
    "status": "completed",
-   "read": 3
+   "read": 2
   },
   {
    "name": "Y Combinator",
