@@ -2,177 +2,267 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <id>tag:chengzhang.amilakids.com,2026:builders-x</id>
 <title>海外订阅 · X · Mac mini 镜像</title>
-<updated>2026-11-17T00:30:21+00:00</updated>
+<updated>2026-11-18T00:30:30+00:00</updated>
 <author><name>海外订阅 · X · Mac mini 镜像</name></author>
 <entry>
-<id>2122206990101536852</id>
-<title>Codex team might have actually fixed the &quot;model at capacity&quot; errors that have been pestering you. https://t.co/EgS0HkOATY</title>
-<link rel="alternate" href="https://x.com/thsottiaux/status/2122206990101536852"/>
-<published>2026-11-16T05:55:49.000Z</published>
-<updated>2026-11-16T05:55:49.000Z</updated>
-<author><name>Thibault Sottiaux</name></author>
+<id>2122576951080792543</id>
+<title>Fun project for GBrain coming in the next few weeks using Vorflux as my software factory: GBrain backend engine written in Rust</title>
+<link rel="alternate" href="https://x.com/garrytan/status/2122576951080792543"/>
+<published>2026-11-17T06:25:55.000Z</published>
+<updated>2026-11-17T06:25:55.000Z</updated>
+<author><name>Garry Tan</name></author>
 <summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
 </entry>
 <entry>
-<id>2122185760799609017</id>
-<title>It’s been an interesting 48 hours. https://t.co/t4IOusuJn0</title>
-<link rel="alternate" href="https://x.com/amasad/status/2122185760799609017"/>
-<published>2026-11-16T04:31:28.000Z</published>
-<updated>2026-11-16T04:31:28.000Z</updated>
-<author><name>Amjad Masad</name></author>
-<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
-</entry>
-<entry>
-<id>2122184794209714368</id>
-<title>Introducing 𝚡𝚎𝚎𝚝: https://t.co/YaLEMbmKwf.</title>
-<link rel="alternate" href="https://x.com/rauchg/status/2122184794209714368"/>
-<published>2026-11-16T04:27:37.000Z</published>
-<updated>2026-11-16T04:27:37.000Z</updated>
-<author><name>Guillermo Rauch</name></author>
-<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
-</entry>
-<entry>
-<id>2122154124024381828</id>
-<title>a new arena and two new characters https://t.co/e8nHEldjoD https://t.co/hLIVplRPrW</title>
-<link rel="alternate" href="https://x.com/trq212/status/2122154124024381828"/>
-<published>2026-11-16T02:25:45.000Z</published>
-<updated>2026-11-16T02:25:45.000Z</updated>
-<author><name>Thariq</name></author>
-<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
-</entry>
-<entry>
-<id>2122132596352327816</id>
-<title>&quot;When you ask Claude to create something, it's operating in a fresh context where it thinks: Oh my God, the user asked me to make an app. I'm going to invent the most brilliant vis</title>
-<link rel="alternate" href="https://x.com/petergyang/status/2122132596352327816"/>
-<published>2026-11-16T01:00:12.000Z</published>
-<updated>2026-11-16T01:00:12.000Z</updated>
-<author><name>Peter Yang</name></author>
-<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
-</entry>
-<entry>
-<id>2122127120055034258</id>
-<title>AI models are getting really good at naming things. I created a little CLI to diagnose system slowdowns, and it named it 𝚑𝚘𝚐 🐖, which I love. Given they're already good at cache in</title>
-<link rel="alternate" href="https://x.com/rauchg/status/2122127120055034258"/>
-<published>2026-11-16T00:38:27.000Z</published>
-<updated>2026-11-16T00:38:27.000Z</updated>
-<author><name>Guillermo Rauch</name></author>
-<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
-</entry>
-<entry>
-<id>2122096965865664924</id>
-<title>What’s the best home automation hub out there if I just wanna use Codex to control everything?</title>
-<link rel="alternate" href="https://x.com/thenanyu/status/2122096965865664924"/>
-<published>2026-11-15T22:38:37.000Z</published>
-<updated>2026-11-15T22:38:37.000Z</updated>
-<author><name>Nan Yu</name></author>
-<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
-</entry>
-<entry>
-<id>2122096121946468451</id>
-<title>It’s cute that my Waymo turns on its windshield wipers in the rain</title>
-<link rel="alternate" href="https://x.com/thenanyu/status/2122096121946468451"/>
-<published>2026-11-15T22:35:16.000Z</published>
-<updated>2026-11-15T22:35:16.000Z</updated>
-<author><name>Nan Yu</name></author>
-<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
-</entry>
-<entry>
-<id>2122091033001337134</id>
-<title>we've been working hard on compounding skills lately (skills that get better every time you use them) </title>
-<link rel="alternate" href="https://x.com/danshipper/status/2122091033001337134"/>
-<published>2026-11-15T22:15:03.000Z</published>
-<updated>2026-11-15T22:15:03.000Z</updated>
-<author><name>Dan Shipper</name></author>
-<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
-</entry>
-<entry>
-<id>2122066060769952161</id>
-<title>apparently it is pretty normal</title>
-<link rel="alternate" href="https://x.com/swyx/status/2122066060769952161"/>
-<published>2026-11-15T20:35:49.000Z</published>
-<updated>2026-11-15T20:35:49.000Z</updated>
+<id>2122566522094915765</id>
+<title>together deleted megkernels</title>
+<link rel="alternate" href="https://x.com/swyx/status/2122566522094915765"/>
+<published>2026-11-17T05:44:28.000Z</published>
+<updated>2026-11-17T05:44:28.000Z</updated>
 <author><name>Swyx</name></author>
 <summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
 </entry>
 <entry>
-<id>2122062419010961439</id>
-<title>Good summary. https://t.co/KThCywHmZt</title>
-<link rel="alternate" href="https://x.com/amasad/status/2122062419010961439"/>
-<published>2026-11-15T20:21:21.000Z</published>
-<updated>2026-11-15T20:21:21.000Z</updated>
-<author><name>Amjad Masad</name></author>
-<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
-</entry>
-<entry>
-<id>2122060856498524510</id>
-<title>&quot;Do you find being a designer more fun now that you can easily prototype everything?&quot;</title>
-<link rel="alternate" href="https://x.com/petergyang/status/2122060856498524510"/>
-<published>2026-11-15T20:15:08.000Z</published>
-<updated>2026-11-15T20:15:08.000Z</updated>
+<id>2122558387162652701</id>
+<title>This is like AI slop it literally says nothing? Did Megaspeed violate laws or not? https://t.co/SnFyxhyIBw</title>
+<link rel="alternate" href="https://x.com/petergyang/status/2122558387162652701"/>
+<published>2026-11-17T05:12:09.000Z</published>
+<updated>2026-11-17T05:12:09.000Z</updated>
 <author><name>Peter Yang</name></author>
 <summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
 </entry>
 <entry>
-<id>2122042319419609105</id>
-<title>Next guest up in this weekly series is @kanavg1, cofounder of @coreauto on Friday, Nov 20th at noon. </title>
-<link rel="alternate" href="https://x.com/nikunj/status/2122042319419609105"/>
-<published>2026-11-15T19:01:29.000Z</published>
-<updated>2026-11-15T19:01:29.000Z</updated>
+<id>2122543500814336281</id>
+<title>2026 infra wars in a nutshell..</title>
+<link rel="alternate" href="https://x.com/nikunj/status/2122543500814336281"/>
+<published>2026-11-17T04:13:00.000Z</published>
+<updated>2026-11-17T04:13:00.000Z</updated>
 <author><name>Nikunj Kothari</name></author>
 <summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
 </entry>
 <entry>
-<id>2122039657001300125</id>
-<title>Alright I can't help it:</title>
-<link rel="alternate" href="https://x.com/petergyang/status/2122039657001300125"/>
-<published>2026-11-15T18:50:54.000Z</published>
-<updated>2026-11-15T18:50:54.000Z</updated>
-<author><name>Peter Yang</name></author>
+<id>2122541401804054826</id>
+<title>musing:</title>
+<link rel="alternate" href="https://x.com/danshipper/status/2122541401804054826"/>
+<published>2026-11-17T04:04:39.000Z</published>
+<updated>2026-11-17T04:04:39.000Z</updated>
+<author><name>Dan Shipper</name></author>
 <summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
 </entry>
 <entry>
-<id>2122032217430032548</id>
-<title>clanker wrote up the talk https://t.co/hxZj0VaJV4</title>
-<link rel="alternate" href="https://x.com/swyx/status/2122032217430032548"/>
-<published>2026-11-15T18:21:20.000Z</published>
-<updated>2026-11-15T18:21:20.000Z</updated>
+<id>2122517681740124271</id>
+<title>If you want individual employee brains rolling up into team brains and then a top level company brain, GBrain's Hosted option supports it out of the box </title>
+<link rel="alternate" href="https://x.com/garrytan/status/2122517681740124271"/>
+<published>2026-11-17T02:30:24.000Z</published>
+<updated>2026-11-17T02:30:24.000Z</updated>
+<author><name>Garry Tan</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2122514247045496978</id>
+<title>Welcome! Welcome! https://t.co/vJHr1az0rL</title>
+<link rel="alternate" href="https://x.com/joshwoodward/status/2122514247045496978"/>
+<published>2026-11-17T02:16:45.000Z</published>
+<updated>2026-11-17T02:16:45.000Z</updated>
+<author><name>Josh Woodward</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2122512082835067151</id>
+<title>women are destroying the men, wtf is happening rn https://t.co/KckmQKykvy</title>
+<link rel="alternate" href="https://x.com/swyx/status/2122512082835067151"/>
+<published>2026-11-17T02:08:09.000Z</published>
+<updated>2026-11-17T02:08:09.000Z</updated>
 <author><name>Swyx</name></author>
 <summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
 </entry>
 <entry>
-<id>2122031563961684032</id>
-<title>clanker wrote up a short recap of the talk</title>
-<link rel="alternate" href="https://x.com/swyx/status/2122031563961684032"/>
-<published>2026-11-15T18:18:44.000Z</published>
-<updated>2026-11-15T18:18:44.000Z</updated>
+<id>2122508098351038532</id>
+<title>The chart of token spend per employee still has no ceiling in sight. And the closer you are to AI right now the deeper the sense is that we’re actually still in the early part of t</title>
+<link rel="alternate" href="https://x.com/levie/status/2122508098351038532"/>
+<published>2026-11-17T01:52:19.000Z</published>
+<updated>2026-11-17T01:52:19.000Z</updated>
+<author><name>Aaron Levie</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2122490852497125485</id>
+<title>Like a phoenix, we’re going to see the entire internet burn down to emerge stronger on the other side. </title>
+<link rel="alternate" href="https://x.com/nikunj/status/2122490852497125485"/>
+<published>2026-11-17T00:43:47.000Z</published>
+<updated>2026-11-17T00:43:47.000Z</updated>
+<author><name>Nikunj Kothari</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2122487869780742304</id>
+<title>True drone autonomy on top of almost any other flight platform is now here</title>
+<link rel="alternate" href="https://x.com/garrytan/status/2122487869780742304"/>
+<published>2026-11-17T00:31:56.000Z</published>
+<updated>2026-11-17T00:31:56.000Z</updated>
+<author><name>Garry Tan</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2122463916114813249</id>
+<title>💪 https://t.co/OwGRhdeacL</title>
+<link rel="alternate" href="https://x.com/amasad/status/2122463916114813249"/>
+<published>2026-11-16T22:56:45.000Z</published>
+<updated>2026-11-16T22:56:45.000Z</updated>
+<author><name>Amjad Masad</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2122463466304971068</id>
+<title>People: Please reduce the number of permission alerts so agents can work on macOS without constant babysitting</title>
+<link rel="alternate" href="https://x.com/steipete/status/2122463466304971068"/>
+<published>2026-11-16T22:54:58.000Z</published>
+<updated>2026-11-16T22:54:58.000Z</updated>
+<author><name>Peter Steinberger</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2122461899178820069</id>
+<title>We’re excited to welcome Howie to Google Labs! </title>
+<link rel="alternate" href="https://x.com/GoogleLabs/status/2122461899178820069"/>
+<published>2026-11-16T22:48:44.000Z</published>
+<updated>2026-11-16T22:48:44.000Z</updated>
+<author><name>Google Labs</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2122458782294847807</id>
+<title>Own your intelligence roadmap:</title>
+<link rel="alternate" href="https://x.com/rauchg/status/2122458782294847807"/>
+<published>2026-11-16T22:36:21.000Z</published>
+<updated>2026-11-16T22:36:21.000Z</updated>
+<author><name>Guillermo Rauch</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2122453269842886788</id>
+<title>Turn your sources into interactive sites with @Gemini_Notebook - we made one with all the periodic table names. :) These are easy to make, easy to share. https://t.co/7atKNhzskL</title>
+<link rel="alternate" href="https://x.com/joshwoodward/status/2122453269842886788"/>
+<published>2026-11-16T22:14:27.000Z</published>
+<updated>2026-11-16T22:14:27.000Z</updated>
+<author><name>Josh Woodward</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2122438864791110126</id>
+<title>look, a sane person https://t.co/PejOwWp8RZ</title>
+<link rel="alternate" href="https://x.com/thenanyu/status/2122438864791110126"/>
+<published>2026-11-16T21:17:13.000Z</published>
+<updated>2026-11-16T21:17:13.000Z</updated>
+<author><name>Nan Yu</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2122438328079524159</id>
+<title>for example, this is me working with agents on a new character for my game https://t.co/jfWNcszyin</title>
+<link rel="alternate" href="https://x.com/trq212/status/2122438328079524159"/>
+<published>2026-11-16T21:15:05.000Z</published>
+<updated>2026-11-16T21:15:05.000Z</updated>
+<author><name>Thariq</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2122438326431154210</id>
+<title>software factories feel like a temporary problem. the models will learn to build them for you</title>
+<link rel="alternate" href="https://x.com/trq212/status/2122438326431154210"/>
+<published>2026-11-16T21:15:04.000Z</published>
+<updated>2026-11-16T21:15:04.000Z</updated>
+<author><name>Thariq</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2122427240441131203</id>
+<title>gmail has no gcal search despite cal is sent via gmail https://t.co/EzdQbPNP6s</title>
+<link rel="alternate" href="https://x.com/swyx/status/2122427240441131203"/>
+<published>2026-11-16T20:31:01.000Z</published>
+<updated>2026-11-16T20:31:01.000Z</updated>
 <author><name>Swyx</name></author>
 <summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
 </entry>
 <entry>
-<id>2122021380745290202</id>
-<title>Being good at LinkedIn probably makes you bad at X https://t.co/dFYRSQLn9V</title>
-<link rel="alternate" href="https://x.com/zarazhangrui/status/2122021380745290202"/>
-<published>2026-11-15T17:38:17.000Z</published>
-<updated>2026-11-15T17:38:17.000Z</updated>
-<author><name>Zara Zhang</name></author>
+<id>2122422367557464548</id>
+<title>Deranged cult https://t.co/FmC9L8N1ZL</title>
+<link rel="alternate" href="https://x.com/amasad/status/2122422367557464548"/>
+<published>2026-11-16T20:11:39.000Z</published>
+<updated>2026-11-16T20:11:39.000Z</updated>
+<author><name>Amjad Masad</name></author>
 <summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
 </entry>
 <entry>
-<id>2122021053442703852</id>
-<title>I love this store so much 😭 https://t.co/SNteDhX5uA</title>
-<link rel="alternate" href="https://x.com/zarazhangrui/status/2122021053442703852"/>
-<published>2026-11-15T17:36:59.000Z</published>
-<updated>2026-11-15T17:36:59.000Z</updated>
-<author><name>Zara Zhang</name></author>
+<id>2122415506451841215</id>
+<title>The old way: users are human, you run user interviews, get inspired, mock up user journeys.</title>
+<link rel="alternate" href="https://x.com/rauchg/status/2122415506451841215"/>
+<published>2026-11-16T19:44:23.000Z</published>
+<updated>2026-11-16T19:44:23.000Z</updated>
+<author><name>Guillermo Rauch</name></author>
 <summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
 </entry>
 <entry>
-<id>2122003237335343457</id>
-<title>One of our aerospace companies in India shared this with me today morning.</title>
-<link rel="alternate" href="https://x.com/adityaag/status/2122003237335343457"/>
-<published>2026-11-15T16:26:11.000Z</published>
-<updated>2026-11-15T16:26:11.000Z</updated>
+<id>2122412013251162592</id>
+<title>Make your own here: https://t.co/EADcTLXI4H</title>
+<link rel="alternate" href="https://x.com/nikunj/status/2122412013251162592"/>
+<published>2026-11-16T19:30:31.000Z</published>
+<updated>2026-11-16T19:30:31.000Z</updated>
+<author><name>Nikunj Kothari</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2122396034186014919</id>
+<title>A new era of software is upon us. Personalized, fully owned, open source. And higher quality than what it replaces. https://t.co/r2HlwWWvvl</title>
+<link rel="alternate" href="https://x.com/rauchg/status/2122396034186014919"/>
+<published>2026-11-16T18:27:01.000Z</published>
+<updated>2026-11-16T18:27:01.000Z</updated>
+<author><name>Guillermo Rauch</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2122386960862056629</id>
+<title>https://t.co/XnkC6s7c5A</title>
+<link rel="alternate" href="https://x.com/adityaag/status/2122386960862056629"/>
+<published>2026-11-16T17:50:58.000Z</published>
+<updated>2026-11-16T17:50:58.000Z</updated>
 <author><name>Aditya Agarwal</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2122386958101959118</id>
+<title>Two thoughts:</title>
+<link rel="alternate" href="https://x.com/adityaag/status/2122386958101959118"/>
+<published>2026-11-16T17:50:57.000Z</published>
+<updated>2026-11-16T17:50:57.000Z</updated>
+<author><name>Aditya Agarwal</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2122371754731708883</id>
+<title>Be like jori https://t.co/gnjCetIAS6</title>
+<link rel="alternate" href="https://x.com/thenanyu/status/2122371754731708883"/>
+<published>2026-11-16T16:50:32.000Z</published>
+<updated>2026-11-16T16:50:32.000Z</updated>
+<author><name>Nan Yu</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2122367547312119843</id>
+<title>Our goal when starting an interpretability work was to develop confidence in our methods to the point where we could apply it to leading frontier models.</title>
+<link rel="alternate" href="https://x.com/adityaag/status/2122367547312119843"/>
+<published>2026-11-16T16:33:49.000Z</published>
+<updated>2026-11-16T16:33:49.000Z</updated>
+<author><name>Aditya Agarwal</name></author>
+<summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
+</entry>
+<entry>
+<id>2122347721298510021</id>
+<title>My top 5 takeaways from @nateparrott on how to get Claude to design without AI slop:</title>
+<link rel="alternate" href="https://x.com/petergyang/status/2122347721298510021"/>
+<published>2026-11-16T15:15:02.000Z</published>
+<updated>2026-11-16T15:15:02.000Z</updated>
+<author><name>Peter Yang</name></author>
 <summary>Follow Builders 保存的帖子／文章／转写（Mac mini 镜像）；完整性以其提供内容为准，未独立核实</summary>
 </entry>
 </feed>
