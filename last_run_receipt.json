@@ -1,53 +1,53 @@
 {
- "ran_at": "2026-11-18T08:30:22+08:00",
+ "ran_at": "2026-11-19T08:33:09+08:00",
  "proxy": "http://127.0.0.1:12334",
  "channels": [
   {
    "name": "Training Data · Sequoia Capital",
-   "status": "completed",
-   "read": 3
+   "status": "failed",
+   "message": "ERROR: [youtube:tab] PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8: Unable to download API page: ('Connection aborted.', ConnectionResetError(54, 'Connection res"
   },
   {
    "name": "Latent Space",
-   "status": "completed",
-   "read": 3
+   "status": "failed",
+   "message": "ERROR: [youtube:tab] @LatentSpacePod/videos: Unable to download API page: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')"
   },
   {
    "name": "Y Combinator",
-   "status": "completed",
-   "read": 3
+   "status": "failed",
+   "message": "ERROR: [youtube:tab] @ycombinator/videos: Unable to download API page: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) ("
   },
   {
    "name": "a16z",
-   "status": "completed",
-   "read": 3
+   "status": "failed",
+   "message": "ERROR: [youtube:tab] @a16z/videos: Unable to download API page: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) (caused "
   },
   {
    "name": "Redpoint AI",
-   "status": "completed",
-   "read": 3
+   "status": "failed",
+   "message": "ERROR: [youtube:tab] @RedpointAI/videos: Unable to download API page: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) (c"
   },
   {
    "name": "Every",
-   "status": "completed",
-   "read": 3
+   "status": "failed",
+   "message": "ERROR: [youtube:tab] @EveryInc/videos: Unable to download API page: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) (cau"
   },
   {
    "name": "Data Driven NYC",
    "status": "failed",
-   "message": "ERROR: [youtube:tab] @DataDrivenNYC/videos: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)"
+   "message": "ERROR: [youtube:tab] @DataDrivenNYC/videos: Unable to download API page: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))"
   },
   {
    "name": "No Priors",
-   "status": "completed",
-   "read": 3
+   "status": "failed",
+   "message": "ERROR: [youtube:tab] @NoPriorsPodcast/videos: Unable to download API page: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'"
   },
   {
    "name": "Dwarkesh Patel",
-   "status": "completed",
-   "read": 3
+   "status": "failed",
+   "message": "ERROR: [youtube:tab] @DwarkeshPatel/videos: Unable to download API page: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))"
   }
  ],
- "total_items": 24,
- "failed": 1
+ "total_items": 0,
+ "failed": 9
 }
